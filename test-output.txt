@@ -1,0 +1,614 @@
+﻿
+> singlish-translator-testing@1.0.0 test
+> playwright test
+
+
+Running 35 tests using 1 worker
+
+  Γ£ô   1 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0001 - Formal Greeting (10.8s)
+  Γ£ÿ   2 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0002 - Complex Daily Activity (8.1s)
+  Γ£ô   3 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0003 - Polite Request (10.2s)
+  Γ£ÿ   4 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0004 - Mixed Tech Term (8.2s)
+  Γ£ô   5 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0005 - Plural Pronoun (10.3s)
+  Γ£ô   6 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0006 - Weather Inquiry (10.1s)
+  Γ£ô   7 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_007 - Banking/Numbers (10.8s)
+  Γ£ÿ   8 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_008 - Medical Context (19.5s)
+  Γ£ÿ   9 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_009 - Sibling Context (14.7s)
+  Γ£ô  10 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0010 - Office Communication (11.2s)
+  Γ£ÿ  11 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0011 - Shopping Question (8.3s)
+  Γ£ô  12 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0012 - Food/Restaurant (10.5s)
+  Γ£ô  13 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0013 - Future Intent (10.4s)
+  Γ£ô  14 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0014 - Location Inquiry (10.4s)
+  Γ£ÿ  15 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0015 - Negative Statement (8.3s)
+  Γ£ÿ  16 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0016 - Directional Request (8.6s)
+  Γ£ÿ  17 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0017 - Mixed Abbreviations (11.4s)
+  Γ£ÿ  18 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0018 - Sequential Tasks (9.4s)
+  Γ£ô  19 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0019 - Travel Detail (10.9s)
+  Γ£ô  20 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0020 - Time Management (11.0s)
+  Γ£ô  21 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0021 - Home Instruction (10.8s)
+  Γ£ÿ  22 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0022 - Religious Term (8.9s)
+  Γ£ÿ  23 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0023 - Long-form News/Weather report transliteration with technical data (9.2s)
+  Γ£ÿ  24 [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0024 - Historical context with complex regional names (8.8s)
+  Γ£ÿ  25 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0001 - Missing space between words (9.0s)
+  Γ£ÿ  26 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0002 - Joined compound words (9.0s)
+  Γ£ÿ  27 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0003 - Mixed spacing issues (9.0s)
+  Γ£ÿ  28 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0004 - Line break in sentence (8.9s)
+  Γ£ô  29 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0005 - Informal slang phrase (10.9s)
+  Γ£ÿ  30 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0006 - Colloquial expression (8.8s)
+  Γ£ÿ  31 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0007 - Mixed English with errors (8.9s)
+  Γ£ÿ  32 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0008 - Abbreviation in sentence (11.5s)
+  Γ£ÿ  33 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0009 - Question with spacing error (8.8s)
+  Γ£ÿ  34 [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0010 - Complex slang statement (9.0s)
+  Γ£ô  35 [chromium] ΓÇ║ swift-translator-tests.spec.js:442:5 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ UI Functionality Tests ΓÇ║ Pos_UI_001 - Real-time translation updates as typing (14.6s)
+
+
+  1) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0002 - Complex Daily Activity 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╢╕ α╢ïα╢»α╖Ü α╢Ü[7mα╖æ[27mα╢╕ α╢ïα╢║α╢╜[7mα╖Å[27m α╢ëα╖âα╖èα╢Ü[7mα╖¥α╢╜α╖Ü[27m α╢║α╢▒α╖èα╢▒ α╢╜α╖æα╖âα╖èα╢¡α╖Æ [7mα╖Çα╖öα╢½α╖Å[27m."[39m
+    Received: [31m"α╢╕α╢╕ α╢ïα╢»α╖Ü[7mα╢╕[27m α╢Ü[7mα╖Ö[27mα╢╕ α╢ïα╢║α╢╜ α╢ëα╖âα╖èα╢Ü[7mα╖£α╢╜α╖Ö[27m α╢║α╢▒α╖èα╢▒ α╢╜α╖æα╖âα╖èα╢¡α╖Æ [7mα╢ïα╢▒[27m."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-7384a-02---Complex-Daily-Activity-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-7384a-02---Complex-Daily-Activity-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-7384a-02---Complex-Daily-Activity-chromium\error-context.md
+
+  2) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0004 - Mixed Tech Term 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"[7mα╢╕α╢£α╖Ü[27m laptop α╢æα╢Ü on α╖Çα╖Öα╢▒α╖èα╢▒[7mα╖Ü[27m α╢▒α╖Éα╖äα╖É."[39m
+    Received: [31m"[7mmage[27m laptop α╢æα╢Ü on α╖Çα╖Öα╢▒α╖èα╢▒[7mα╖Ö[27m α╢▒α╖Éα╖äα╖É."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-b641e--Fun-0004---Mixed-Tech-Term-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-b641e--Fun-0004---Mixed-Tech-Term-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-b641e--Fun-0004---Mixed-Tech-Term-chromium\error-context.md
+
+  3) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_008 - Medical Context 
+
+    TimeoutError: page.waitForFunction: Timeout 15000ms exceeded.
+
+      377 |
+      378 |   async waitForOutput() {
+    > 379 |     await this.page.waitForFunction(
+          |                     ^
+      380 |       () => {
+      381 |         const elements = Array.from(
+      382 |           document.querySelectorAll('.w-full.h-80.p-3.rounded-lg.ring-1.ring-slate-300.whitespace-pre-wrap')
+        at TranslatorPage.waitForOutput (C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:379:21)
+        at TranslatorPage.performTranslation (C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:404:16)
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:422:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-f3a37-s-Fun-008---Medical-Context-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-f3a37-s-Fun-008---Medical-Context-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-f3a37-s-Fun-008---Medical-Context-chromium\error-context.md
+
+  4) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_009 - Sibling Context 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"[7mα╢╕α╢£α╖Ü[27m α╢àα╢Üα╖èα╢Üα╖Å α╢»α╖Éα╢▒α╖è office α╢£α╖Æα╖äα╖Æα╢▒α╖è."[39m
+    Received: [31m"[7mmage[27m α╢àα╢Üα╖èα╢Üα╖Å α╢»α╖Éα╢▒α╖è office α╢£α╖Æα╖äα╖Æα╢▒α╖è."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-eb780-s-Fun-009---Sibling-Context-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-eb780-s-Fun-009---Sibling-Context-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-eb780-s-Fun-009---Sibling-Context-chromium\error-context.md
+
+  5) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0011 - Shopping Question 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╖Üα╢Ü α╢Üα╖ôα╢║α╢» α╢Üα╖Æα╢║α╢╜[7mα╖Å[27m α╢Üα╖Æα╢║α╢▒α╖èα╢▒."[39m
+    Received: [31m"α╢╕α╖Üα╢Ü α╢Üα╖ôα╢║α╢» α╢Üα╖Æα╢║α╢╜ α╢Üα╖Æα╢║α╢▒α╖èα╢▒."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-66b4c-un-0011---Shopping-Question-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-66b4c-un-0011---Shopping-Question-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-66b4c-un-0011---Shopping-Question-chromium\error-context.md
+
+  6) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0015 - Negative Statement 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢æα╢║α╖Å α╢»α╖Éα╢▒α╖è α╢Üα╖æα╢╕ α╢Üα╢▒α╖èα╢▒[7mα╖Ü[27m α╢▒α╖Éα╖äα╖É"[39m
+    Received: [31m"α╢æα╢║α╖Å α╢»α╖Éα╢▒α╖è α╢Üα╖æα╢╕ α╢Üα╢▒α╖èα╢▒[7mα╖Ö[27m α╢▒α╖Éα╖äα╖É"[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-2a961-n-0015---Negative-Statement-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-2a961-n-0015---Negative-Statement-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-2a961-n-0015---Negative-Statement-chromium\error-context.md
+
+  7) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0016 - Directional Request 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"[7mα╢╢α╖âα╖è[27m α╢æα╢Ü α╢Üα╖£α╖äα╖Öα╢ºα╢» α╢║α╢▒α╖èα╢▒[7mα╖Ü[27m?"[39m
+    Received: [31m"[7mbus[27m α╢æα╢Ü α╢Üα╖£α╖äα╖Öα╢ºα╢» α╢║α╢▒α╖èα╢▒[7mα╖Ö[27m?"[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-aacf3--0016---Directional-Request-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-aacf3--0016---Directional-Request-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-aacf3--0016---Directional-Request-chromium\error-context.md
+
+  8) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0017 - Mixed Abbreviations 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"[7mα╢╕α╢£α╖Ü[27m NIC α╢æα╢Ü α╢¡α╖Åα╢╕ α╢åα╖Çα╖Ü α╢▒[7mα╖æ[27m."[39m
+    Received: [31m"[7mmage[27m NIC α╢æα╢Ü α╢¡α╖Åα╢╕ α╢åα╖Çα╖Ü α╢▒[7mα╖É[27m."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-8b710--0017---Mixed-Abbreviations-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-8b710--0017---Mixed-Abbreviations-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-8b710--0017---Mixed-Abbreviations-chromium\error-context.md
+
+  9) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0018 - Sequential Tasks 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╢╕ α╖Ç[7mα╖É[27mα╢⌐ α╢ëα╖Çα╢╗ α╢Üα╢╗α╢╜[7mα╖Å[27m α╢£α╖Öα╢»α╢╗ α╢║α╢▒α╖Ç[7mα╖Å[27m."[39m
+    Received: [31m"α╢╕α╢╕ α╖Ç[7mα╖Ö[27mα╢⌐ α╢ëα╖Çα╢╗ α╢Üα╢╗α╢╜ α╢£α╖Öα╢»α╢╗ α╢║α╢▒α╖Ç."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-25550-Fun-0018---Sequential-Tasks-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-25550-Fun-0018---Sequential-Tasks-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-25550-Fun-0018---Sequential-Tasks-chromium\error-context.md
+
+  10) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0022 - Religious Term 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢àα╢┤α╖Æ α╢┤[7mα╖¥[27mα╢║ α╢»α╖Çα╖âα╢º α╢┤α╢▒α╖èα╖âα╢╜α╖è α╢║α╢╕α╖ö."[39m
+    Received: [31m"α╢àα╢┤α╖Æ α╢┤[7mα╖£[27mα╢║ α╢»α╖Çα╖âα╢º α╢┤α╢▒α╖èα╖âα╢╜α╖è α╢║α╢╕α╖ö."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-bd74e-s-Fun-0022---Religious-Term-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-bd74e-s-Fun-0022---Religious-Term-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-bd74e-s-Fun-0022---Religious-Term-chromium\error-context.md
+
+  11) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0023 - Long-form News/Weather report transliteration with technical data 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"2026 α╢óα╢▒α╖Çα╖Åα╢╗α╖Æ 31 α╢»α╖Æα╢▒ α╖âα╢│α╖äα╖Å α╢Üα╖Åα╢╜α╢£α╖öα╢½ α╢àα╢▒α╖Åα╖Çα╖Éα╢Üα╖Æα╢║α╢º α╢àα╢▒α╖öα╖Ç, α╖üα╖èΓÇìα╢╗α╖ô α╢╜α╢éα╢Üα╖Åα╖Çα╖Ü α╢ïα╢¡α╖öα╢╗α╖ö, α╢ïα╢¡α╖öα╢╗α╖ö-α╢╕α╖Éα╢», α╢▒α╖Éα╢£α╖Öα╢▒α╖äα╖Æα╢╗ α╖âα╖ä α╢╕α╢░α╖èΓÇìα╢║α╢╕ α╢┤α╖àα╖Åα╢¡α╖èα╖Çα╢╜ α╖Çα╖Æα╢ºα╖Æα╢▒α╖è α╖Çα╖Æα╢º α╖Çα╖Éα╖âα╖Æ α╢çα╢¡α╖Æ α╖Çα╖Æα╢║ α╖äα╖Éα╢Ü. α╢┤α╖èΓÇìα╢╗α╢░α╖Åα╢▒ α╖Çα╖Éα╖âα╖Æ α╢¡α╢¡α╖èα╢¡α╖èα╖Ç: α╢╕α╖öα╢╜α╢¡α╖Æα╖Çα╖ö, α╢¡α╖èΓÇìα╢╗α╖Æα╢Üα╖öα╢½α╖Åα╢╕α╢╜α╢║, α╢┤α╖£α╖àα╖£α╢▒α╖èα╢▒α╢╗α╖öα╖Ç α╖âα╖ä α╢╕α╖Åα╢¡α╢╜α╖Ü α╢»α╖Æα╖âα╖èα╢¡α╖èΓÇìα╢╗α╖Æα╢Üα╖èα╢Üα╖Çα╢╜ α╢çα╢¡α╖Éα╢╕α╖è α╖âα╖èα╢«α╖Åα╢▒α╖Çα╢╜α╢º α╢╕α╖Æ.α╢╕α╖ô. 50α╢º α╖Çα╖Éα╢⌐α╖Æ α╢¡α╢╗α╢╕α╢Ü α╢¡α╢» α╖Çα╖Éα╖âα╖Æ α╢çα╢¡α╖Æ α╖Çα╖Æα╢║ α╖äα╖Éα╢Üα╖Æ α╢╢α╖Ç α╢Üα╖Åα╢╜α╢£α╖öα╢½ α╖Çα╖Æα╢»α╖èΓÇìα╢║α╖Å α╢»α╖Öα╢┤α╖Åα╢╗α╖èα╢¡α╢╕α╖Üα╢▒α╖èα╢¡α╖öα╖Ç α╢┤α╖Çα╖âα╢║α╖Æ. α╢Üα╖£α╖àα╢╣ α╖âα╖ä α╢àα╖Çα╢º: α╢Üα╖£α╖àα╢╣ α╢┤α╖èΓÇìα╢╗α╢»α╖Üα╖üα╢║α╖Ü α╢àα╢╗α╖èα╢░ α╖Çα╖üα╢║α╖Öα╢▒α╖è α╖Çα╢╜α╖Åα╢Üα╖öα╖àα╖ö α╢┤α╖Æα╢╗α╖Æ α╢Üα╖Åα╢╜α╢£α╖öα╢½α╢║α╢Üα╖è α╢┤α╖Çα╢¡α╖Æα╢▒ α╢àα╢¡α╢╗, α╢ïα╖éα╖èα╢½α╢¡α╖èα╖Çα╢║ α╖âα╖Öα╢╜α╖èα╖âα╖Æα╢║α╖âα╖è α╢àα╢éα╖üα╢Ü 30-31 α╢┤α╢╕α╢½ α╖Çα╖Æα╢║ α╖äα╖Éα╢Ü."[39m
+    Received: [31m"2026 α╢óα╢▒α╖Çα╖Åα╢╗α╖Æ 31 α╢»α╖Æα╢▒ α╖âα╢│α╖äα╖Å α╢Üα╖Åα╢╜α╢£α╖öα╢½ α╢àα╢▒α╖Åα╖Çα╖Éα╢Üα╖Æα╢║α╢º α╢àα╢▒α╖öα╖Ç, α╖üα╖èΓÇìα╢╗α╖ô α╢╜α╢éα╢Üα╖Åα╖Çα╖Ü α╢ïα╢¡α╖öα╢╗α╖ö, α╢ïα╢¡α╖öα╢╗α╖ö-α╢╕α╖Éα╢», α╢▒α╖Éα╢£α╖Öα╢▒α╖äα╖Æα╢╗ α╖âα╖ä α╢╕α╢░α╖èΓÇìα╢║α╢╕ α╢┤α╖àα╖Åα╢¡α╖èα╖Çα╢╜ α╖Çα╖Æα╢ºα╖Æα╢▒α╖è α╖Çα╖Æα╢º α╖Çα╖Éα╖âα╖Æ α╢çα╢¡α╖Æ α╖Çα╖Æα╢║ α╖äα╖Éα╢Ü. α╢┤α╖èΓÇìα╢╗α╢░α╖Åα╢▒ α╖Çα╖Éα╖âα╖Æ α╢¡α╢¡α╖èα╢¡α╖èα╖Ç: α╢╕α╖öα╢╜α╢¡α╖Æα╖Çα╖ö, α╢¡α╖èΓÇìα╢╗α╖Æα╢Üα╖öα╢½α╖Åα╢╕α╢╜α╢║, α╢┤α╖£α╖àα╖£α╢▒α╖èα╢▒[7mα╖Å[27mα╢╗α╖öα╖Ç α╖âα╖ä α╢╕α╖Åα╢¡α╢╜α╖Ü α╢»α╖Æα╖âα╖èα╢¡α╖èΓÇìα╢╗α╖Æα╢Üα╖èα╢Üα╖Çα╢╜ α╢çα╢¡α╖Éα╢╕α╖è α╖âα╖èα╢«α╖Åα╢▒α╖Çα╢╜α╢º α╢╕α╖Æ.α╢╕α╖ô. 50α╢º α╖Çα╖Éα╢⌐α╖Æ α╢¡α╢╗α╢╕α╢Ü α╢¡α╢» α╖Çα╖Éα╖âα╖Æ α╢çα╢¡α╖Æ α╖Çα╖Æα╢║ α╖äα╖Éα╢Üα╖Æ α╢╢α╖Ç α╢Üα╖Åα╢╜α╢£α╖öα╢½ α╖Çα╖Æα╢»α╖èΓÇìα╢║α╖Å α╢»α╖Öα╢┤α╖Åα╢╗α╖èα╢¡α╢╕α╖Üα╢▒α╖èα╢¡α╖öα╖Ç α╢┤α╖Çα╖âα╢║α╖Æ. α╢Üα╖£α╖àα╢╣ α╖âα╖ä α╢àα╖Çα╢º: α╢Üα╖£α╖àα╢╣ α╢┤α╖èΓÇìα╢╗α╢»α╖Üα╖üα╢║α╖Ü α╢àα╢╗α╖èα╢░ α╖Çα╖üα╢║α╖Öα╢▒α╖è α╖Çα╢╜α╖Åα╢Üα╖öα╖àα╖ö α╢┤α╖Æα╢╗α╖Æ α╢Üα╖Åα╢╜α╢£α╖öα╢½α╢║α╢Üα╖è α╢┤α╖Çα╢¡α╖Æα╢▒ α╢àα╢¡α╢╗, α╢ïα╖éα╖èα╢½α╢¡α╖èα╖Çα╢║ α╖âα╖Öα╢╜α╖èα╖âα╖Æα╢║α╖âα╖è α╢àα╢éα╖üα╢Ü 30-31 α╢┤α╢╕α╢½ α╖Çα╖Æα╢║ α╖äα╖Éα╢Ü."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-52b5c-eration-with-technical-data-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-52b5c-eration-with-technical-data-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-52b5c-eration-with-technical-data-chromium\error-context.md
+
+  12) [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0024 - Historical context with complex regional names 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╖üα╖èΓÇìα╢╗α╖ô α╢╜α╢éα╢Üα╖Åα╖Çα╖Ü α╢ëα╢¡α╖Æα╖äα╖Åα╖âα╢║ α╢»α╢Üα╖öα╢½α╖ö α╢åα╖âα╖Æα╢║α╖Åα╖Ç, α╢àα╢£α╖èα╢▒α╖Æα╢»α╖Æα╢£ α╢åα╖âα╖Æα╢║α╖Åα╖Ç α╖äα╖Å α╢ëα╢▒α╖èα╢»α╖Æα╢║α╢▒α╖è α╖âα╖Åα╢£α╢╗α╢║ α╢çα╢¡α╖öα╖àα╖ö α╢ëα╢▒α╖èα╢»α╖Æα╢║α╖Åα╢▒α╖ö α╢ïα╢┤ α╢╕α╖äα╖Åα╢»α╖èα╖Çα╖ôα╢┤α╢║ α╖äα╖Å α╢Æ α╢àα╖Çα╢º α╢┤α╖èΓÇìα╢╗α╢»α╖Üα╖üα╖Çα╢╜ α╢ëα╢¡α╖Æα╖äα╖Åα╖âα╢║ α╖âα╢╕α╢ƒ α╢╢α╖Éα╢│[7mα╖ô[27m α╢┤α╖Çα╢¡α╖ô."[39m
+    Received: [31m"α╖üα╖èΓÇìα╢╗α╖ô α╢╜α╢éα╢Üα╖Åα╖Çα╖Ü α╢ëα╢¡α╖Æα╖äα╖Åα╖âα╢║ α╢»α╢Üα╖öα╢½α╖ö α╢åα╖âα╖Æα╢║α╖Åα╖Ç, α╢àα╢£α╖èα╢▒α╖Æα╢»α╖Æα╢£ α╢åα╖âα╖Æα╢║α╖Åα╖Ç α╖äα╖Å α╢ëα╢▒α╖èα╢»α╖Æα╢║α╢▒α╖è α╖âα╖Åα╢£α╢╗α╢║ α╢çα╢¡α╖öα╖àα╖ö α╢ëα╢▒α╖èα╢»α╖Æα╢║α╖Åα╢▒α╖ö α╢ïα╢┤ α╢╕α╖äα╖Åα╢»α╖èα╖Çα╖ôα╢┤α╢║ α╖äα╖Å α╢Æ α╢àα╖Çα╢º α╢┤α╖èΓÇìα╢╗α╢»α╖Üα╖üα╖Çα╢╜ α╢ëα╢¡α╖Æα╖äα╖Åα╖âα╢║ α╖âα╢╕α╢ƒ α╢╢α╖Éα╢│[7mα╖¢α╢ë[27m α╢┤α╖Çα╢¡α╖ô."[39m
+
+      421 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      422 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 423 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      424 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      425 |       });
+      426 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:423:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-f40f0-with-complex-regional-names-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-f40f0-with-complex-regional-names-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-f40f0-with-complex-regional-names-chromium\error-context.md
+
+  13) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0001 - Missing space between words 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╢╕[7m [27mα╢£α╖Öα╢»α╢╗[7m α╢ë[27mα╢▒α╖èα╢▒α╖Ü"[39m
+    Received: [31m"α╢╕α╢╕α╢£α╖Öα╢»α╢╗[7mα╖¢[27mα╢▒α╖èα╢▒α╖Ü"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-e47bd-Missing-space-between-words-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-e47bd-Missing-space-between-words-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-e47bd-Missing-space-between-words-chromium\error-context.md
+
+  14) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0002 - Joined compound words 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢àα╢┤α╖Æ[7m [27mα╢┤α╖âα╖èα╖â[7mα╖Ü α╢Üα╢¡α╖Å [27mα╢Üα╢╗α╢╕α╖ö"[39m
+    Received: [31m"α╢àα╢┤α╖Æα╢┤α╖âα╖èα╖â[7mα╖Öα╢Üα╢¡[27mα╢Üα╢╗α╢╕α╖ö"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-5eb63-002---Joined-compound-words-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-5eb63-002---Joined-compound-words-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-5eb63-002---Joined-compound-words-chromium\error-context.md
+
+  15) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0003 - Mixed spacing issues 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╢º [7mα╢òα╢▒α╖æ[27m α╢Æα╢Ü"[39m
+    Received: [31m"α╢╕α╢º [7m    α╢òα╢▒α╖Ü [27m α╢Æα╢Ü"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-e1ce1-0003---Mixed-spacing-issues-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-e1ce1-0003---Mixed-spacing-issues-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-e1ce1-0003---Mixed-spacing-issues-chromium\error-context.md
+
+  16) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0004 - Line break in sentence 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╢╕ [7mα╢║α╢▒α╖Çα╢╕α╖è α╢£α╖Öα╢»α╢╗[27m"[39m
+    Received: [31m"α╢╕α╢╕ [7mα╢£α╖Öα╢»α╢╗ α╢║α╢▒α╖Ç α╢Üα╢╕α╢╜α╖èα╢»α╢ºα╖è α╢Üα╖Æα╢║α╢▒α╖èα╢▒[27m"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-6cec7-04---Line-break-in-sentence-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-6cec7-04---Line-break-in-sentence-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-6cec7-04---Line-break-in-sentence-chromium\error-context.md
+
+  17) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0006 - Colloquial expression 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢àα╢⌐α╖¥[7mα╢ò[27m α╢╕α╖£α╢Üα╢Üα╖èα╢Üα╖èα╢» α╢╕α╖Ü"[39m
+    Received: [31m"α╢àα╢⌐α╖¥[7mα╢ö[27m α╢╕α╖£α╢Üα╢Üα╖èα╢Üα╖èα╢» α╢╕α╖Ü"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-cf4bc-006---Colloquial-expression-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-cf4bc-006---Colloquial-expression-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-cf4bc-006---Colloquial-expression-chromium\error-context.md
+
+  18) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0007 - Mixed English with errors 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╢╕[7m WhatsApp α╢æ[27mα╢Üα╢£α╖Æα╢║α╖Å"[39m
+    Received: [31m"α╢╕α╢╕[7mWα╖äα╢ºα╖èα╖âα╢┤α╖èα╢┤α╖Ö[27mα╢Üα╢£α╖Æα╢║α╖Å"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-41318---Mixed-English-with-errors-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-41318---Mixed-English-with-errors-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-41318---Mixed-English-with-errors-chromium\error-context.md
+
+  19) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0008 - Abbreviation in sentence 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢╕α╢º ASAP α╢Æα╢Ü α╢òα╢▒[7mα╖æ[27m"[39m
+    Received: [31m"α╢╕α╢º ASAP α╢Æα╢Ü α╢òα╢▒[7mα╖Ü[27m"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-631a1----Abbreviation-in-sentence-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-631a1----Abbreviation-in-sentence-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-631a1----Abbreviation-in-sentence-chromium\error-context.md
+
+  20) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0009 - Question with spacing error 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢öα╢║α╖Å[7m [27mα╢Üα╖£α╖äα╖Öα╢»[7m α╢ë[27mα╢▒α╖èα╢▒α╖Ü"[39m
+    Received: [31m"α╢öα╢║α╖Åα╢Üα╖£α╖äα╖Öα╢»[7mα╖¢[27mα╢▒α╖èα╢▒α╖Ü"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-1b4e8-Question-with-spacing-error-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-1b4e8-Question-with-spacing-error-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-1b4e8-Question-with-spacing-error-chromium\error-context.md
+
+  21) [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0010 - Complex slang statement 
+
+    Error: [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"α╢æα╢║α╖Æ bro α╢Æα╢Ü [7mset[27m α╢Üα╢╗α╢╜ [7mα╢»[27mα╖Öα╢▒α╖èα╢▒"[39m
+    Received: [31m"α╢æα╢║α╖Æ bro α╢Æα╢Ü [7mα╖âα╖Öα╢ºα╖è[27m α╢Üα╢╗α╢╜ [7mα╢⌐[27mα╖Öα╢▒α╖èα╢▒"[39m
+
+      432 |       test(`${testCase.tcId} - ${testCase.name}`, async () => {
+      433 |         const actualOutput = await translator.performTranslation(testCase.input);
+    > 434 |         expect(actualOutput).toBe(testCase.expected);
+          |                              ^
+      435 |         await translator.page.waitForTimeout(CONFIG.timeouts.betweenTests);
+      436 |       });
+      437 |     }
+        at C:\Users\ASUS\OneDrive\Desktop\IT23861954 ITPM\swift-translator-tests.spec.js:434:30
+
+    attachment #1: screenshot (image/png) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-f528e-0---Complex-slang-statement-chromium\test-failed-1.png
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    attachment #2: video (video/webm) ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+    test-results\artifacts\swift-translator-tests-Swi-f528e-0---Complex-slang-statement-chromium\video.webm
+    ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+
+    Error Context: test-results\artifacts\swift-translator-tests-Swi-f528e-0---Complex-slang-statement-chromium\error-context.md
+
+  21 failed
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0002 - Complex Daily Activity 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0004 - Mixed Tech Term 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_008 - Medical Context 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_009 - Sibling Context 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0011 - Shopping Question 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0015 - Negative Statement 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0016 - Directional Request 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0017 - Mixed Abbreviations 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0018 - Sequential Tasks 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0022 - Religious Term 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0023 - Long-form News/Weather report transliteration with technical data 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:421:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Positive Functional Tests ΓÇ║ Pos_Fun_0024 - Historical context with complex regional names 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0001 - Missing space between words 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0002 - Joined compound words 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0003 - Mixed spacing issues 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0004 - Line break in sentence 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0006 - Colloquial expression 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0007 - Mixed English with errors 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0008 - Abbreviation in sentence 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0009 - Question with spacing error 
+    [chromium] ΓÇ║ swift-translator-tests.spec.js:432:7 ΓÇ║ SwiftTranslator - Singlish to Sinhala Conversion Tests ΓÇ║ Negative Functional Tests ΓÇ║ Neg_Fun_0010 - Complex slang statement 
+  14 passed (6.9m)
+
+[36m  Serving HTML report at http://localhost:51227. Press Ctrl+C to quit.[39m
